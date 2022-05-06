@@ -1,0 +1,157 @@
+"","provincia_nombre","anio","semanas_epidemiologicas","evento_nombre","grupo_edad_desc","cantidad_casos"
+"1","Neuquén",2020,3,"Neumonía (sin especificar)",">= a 75",1
+"2","Neuquén",2020,3,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"3","Neuquén",2020,7,"Neumonía (sin especificar)","65 a 74",1
+"4","Neuquén",2020,47,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"5","Neuquén",2020,5,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"6","Neuquén",2020,3,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"7","Neuquén",2020,3,"Neumonía (sin especificar)","65 a 74",1
+"8","Neuquén",2020,3,"Neumonía (sin especificar)",">= a 75",2
+"9","Neuquén",2020,3,"Neumonía (sin especificar)",">= a 75",1
+"10","Neuquén",2020,3,"Neumonía (sin especificar)",">= a 75",1
+"11","Neuquén",2020,8,"Enfermedad tipo influenza (ETI)","< 6 m",1
+"12","Neuquén",2020,8,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"13","Neuquén",2020,8,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"14","Neuquén",2020,9,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"15","Neuquén",2020,51,"Neumonía (sin especificar)",">= a 75",1
+"16","Neuquén",2020,2,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"17","Neuquén",2020,51,"Neumonía (sin especificar)","65 a 74",1
+"18","Neuquén",2020,2,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"19","Neuquén",2020,2,"Neumonía (sin especificar)",">= a 75",2
+"20","Neuquén",2020,52,"Neumonía (sin especificar)",">= a 75",1
+"21","Neuquén",2020,37,"Neumonía (sin especificar)","65 a 74",6
+"22","Neuquén",2020,9,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"23","Neuquén",2020,8,"Neumonía (sin especificar)",">= a 75",1
+"24","Neuquén",2020,39,"Enfermedad tipo influenza (ETI)","6 a 11 m",1
+"25","Neuquén",2020,53,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"26","Neuquén",2020,38,"Neumonía (sin especificar)","65 a 74",5
+"27","Neuquén",2020,27,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"28","Neuquén",2020,27,"Neumonía (sin especificar)","65 a 74",1
+"29","Neuquén",2020,27,"Neumonía (sin especificar)",">= a 75",1
+"30","Neuquén",2020,46,"Neumonía (sin especificar)","65 a 74",1
+"31","Neuquén",2020,46,"Neumonía (sin especificar)",">= a 75",4
+"32","Neuquén",2020,27,"Neumonía (sin especificar)","65 a 74",2
+"33","Neuquén",2020,27,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"34","Neuquén",2020,53,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"35","Neuquén",2020,34,"Neumonía (sin especificar)","65 a 74",1
+"36","Neuquén",2020,26,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"37","Neuquén",2020,27,"Neumonía (sin especificar)",">= a 75",1
+"38","Neuquén",2020,44,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"39","Neuquén",2020,46,"Neumonía (sin especificar)","12 a 23 m",1
+"40","Neuquén",2020,5,"Neumonía (sin especificar)",">= a 75",1
+"41","Neuquén",2020,51,"Neumonía (sin especificar)","65 a 74",2
+"42","Neuquén",2020,3,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"43","Neuquén",2020,1,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"44","Neuquén",2020,1,"Neumonía (sin especificar)",">= a 75",1
+"45","Neuquén",2020,5,"Neumonía (sin especificar)",">= a 75",1
+"46","Neuquén",2020,9,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"47","Neuquén",2020,2,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"48","Neuquén",2020,2,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"49","Neuquén",2020,5,"Neumonía (sin especificar)","65 a 74",1
+"50","Neuquén",2020,44,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"51","Neuquén",2020,39,"Neumonía (sin especificar)","65 a 74",1
+"52","Neuquén",2020,42,"Neumonía (sin especificar)","65 a 74",4
+"53","Neuquén",2020,38,"Neumonía (sin especificar)",">= a 75",1
+"54","Neuquén",2020,40,"Enfermedad tipo influenza (ETI)","12 a 23 m",1
+"55","Neuquén",2020,40,"Neumonía (sin especificar)","65 a 74",1
+"56","Neuquén",2020,2,"Neumonía (sin especificar)",">= a 75",1
+"57","Neuquén",2020,44,"Neumonía (sin especificar)","65 a 74",1
+"58","Neuquén",2020,5,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"59","Neuquén",2020,5,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"60","Neuquén",2020,4,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"61","Neuquén",2020,4,"Neumonía (sin especificar)",">= a 75",1
+"62","Neuquén",2020,4,"Neumonía (sin especificar)","65 a 74",1
+"63","Neuquén",2020,4,"Neumonía (sin especificar)","65 a 74",1
+"64","Neuquén",2020,39,"Enfermedad tipo influenza (ETI)","65 a 74",2
+"65","Neuquén",2020,4,"Neumonía (sin especificar)",">= a 75",2
+"66","Neuquén",2020,38,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"67","Neuquén",2020,37,"Neumonía (sin especificar)",">= a 75",1
+"68","Neuquén",2020,51,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"69","Neuquén",2020,36,"Neumonía (sin especificar)","65 a 74",1
+"70","Neuquén",2020,36,"Neumonía (sin especificar)",">= a 75",1
+"71","Neuquén",2020,35,"Neumonía (sin especificar)","65 a 74",2
+"72","Neuquén",2020,28,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"73","Neuquén",2020,40,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"74","Neuquén",2020,39,"Neumonía (sin especificar)","65 a 74",1
+"75","Neuquén",2020,35,"Enfermedad tipo influenza (ETI)","65 a 74",3
+"76","Neuquén",2020,35,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"77","Neuquén",2020,29,"Neumonía (sin especificar)",">= a 75",1
+"78","Neuquén",2020,34,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"79","Neuquén",2020,28,"Neumonía (sin especificar)","65 a 74",1
+"80","Neuquén",2020,28,"Neumonía (sin especificar)",">= a 75",1
+"81","Neuquén",2020,27,"Neumonía (sin especificar)",">= a 75",1
+"82","Neuquén",2020,16,"Neumonía (sin especificar)","65 a 74",2
+"83","Neuquén",2020,16,"Neumonía (sin especificar)",">= a 75",2
+"84","Neuquén",2020,12,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"85","Neuquén",2020,12,"Neumonía (sin especificar)",">= a 75",1
+"86","Neuquén",2020,15,"Enfermedad tipo influenza (ETI)","< 6 m",1
+"87","Neuquén",2020,30,"Neumonía (sin especificar)",">= a 75",1
+"88","Neuquén",2020,10,"Neumonía (sin especificar)",">= a 75",1
+"89","Neuquén",2020,13,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"90","Neuquén",2020,50,"Neumonía (sin especificar)",">= a 75",1
+"91","Neuquén",2020,4,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",2
+"92","Neuquén",2020,4,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"93","Neuquén",2020,24,"Neumonía (sin especificar)",">= a 75",1
+"94","Neuquén",2020,6,"Enfermedad tipo influenza (ETI)","12 a 23 m",1
+"95","Neuquén",2020,23,"Neumonía (sin especificar)",">= a 75",1
+"96","Neuquén",2020,25,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",2
+"97","Neuquén",2020,7,"Neumonía (sin especificar)","12 a 23 m",1
+"98","Neuquén",2020,6,"Neumonía (sin especificar)","12 a 23 m",1
+"99","Neuquén",2020,7,"Neumonía (sin especificar)","65 a 74",1
+"100","Neuquén",2020,25,"Neumonía (sin especificar)","65 a 74",1
+"101","Neuquén",2020,5,"Neumonía (sin especificar)",">= a 75",1
+"102","Neuquén",2020,24,"Neumonía (sin especificar)","65 a 74",4
+"103","Neuquén",2020,6,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"104","Neuquén",2020,18,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"105","Neuquén",2020,19,"Neumonía (sin especificar)","65 a 74",1
+"106","Neuquén",2020,26,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"107","Neuquén",2020,26,"Neumonía (sin especificar)",">= a 75",2
+"108","Neuquén",2020,48,"Neumonía (sin especificar)","65 a 74",7
+"109","Neuquén",2020,19,"Neumonía (sin especificar)",">= a 75",1
+"110","Neuquén",2020,18,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"111","Neuquén",2020,12,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"112","Neuquén",2020,13,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"113","Neuquén",2020,13,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",2
+"114","Neuquén",2020,35,"Enfermedad tipo influenza (ETI)","12 a 23 m",1
+"115","Neuquén",2020,22,"Neumonía (sin especificar)","65 a 74",1
+"116","Neuquén",2020,14,"Neumonía (sin especificar)",">= a 75",1
+"117","Neuquén",2020,14,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"118","Neuquén",2020,9,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"119","Neuquén",2020,9,"Enfermedad tipo influenza (ETI)",">= a 75",2
+"120","Neuquén",2020,7,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"121","Neuquén",2020,7,"Neumonía (sin especificar)","65 a 74",2
+"122","Neuquén",2020,9,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"123","Neuquén",2020,9,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"124","Neuquén",2020,18,"Neumonía (sin especificar)",">= a 75",2
+"125","Neuquén",2020,20,"Enfermedad tipo influenza (ETI)","6 a 11 m",1
+"126","Neuquén",2020,20,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"127","Neuquén",2020,51,"Neumonía (sin especificar)","65 a 74",1
+"128","Neuquén",2020,9,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"129","Neuquén",2020,6,"Enfermedad tipo influenza (ETI)","12 a 23 m",2
+"130","Neuquén",2020,6,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"131","Neuquén",2020,1,"Neumonía (sin especificar)",">= a 75",3
+"132","Neuquén",2020,1,"Neumonía (sin especificar)","65 a 74",1
+"133","Neuquén",2020,1,"Neumonía (sin especificar)",">= a 75",2
+"134","Neuquén",2020,1,"Neumonía (sin especificar)",">= a 75",1
+"135","Neuquén",2020,46,"Neumonía (sin especificar)",">= a 75",1
+"136","Neuquén",2020,28,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"137","Neuquén",2020,31,"Neumonía (sin especificar)","65 a 74",2
+"138","Neuquén",2020,31,"Enfermedad tipo influenza (ETI)","65 a 74",4
+"139","Neuquén",2020,12,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",3
+"140","Neuquén",2020,21,"Neumonía (sin especificar)",">= a 75",1
+"141","Neuquén",2020,21,"Enfermedad tipo influenza (ETI)","< 6 m",1
+"142","Neuquén",2020,21,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",2
+"143","Neuquén",2020,15,"Neumonía (sin especificar)","12 a 23 m",1
+"144","Neuquén",2020,15,"Neumonía (sin especificar)","65 a 74",1
+"145","Neuquén",2020,10,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"146","Neuquén",2020,15,"Neumonía (sin especificar)",">= a 75",1
+"147","Neuquén",2020,11,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
+"148","Neuquén",2020,11,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"149","Neuquén",2020,32,"Enfermedad tipo influenza (ETI)",">= a 75",1
+"150","Neuquén",2020,11,"Bronquiolitis en menores de 2 años (sin especificar)","< 6 m",1
+"151","Neuquén",2020,8,"Neumonía (sin especificar)","65 a 74",1
+"152","Neuquén",2020,11,"Bronquiolitis en menores de 2 años (sin especificar)","12 a 23 m",1
+"153","Neuquén",2020,11,"Enfermedad tipo influenza (ETI)","65 a 74",1
+"154","Neuquén",2020,11,"Enfermedad tipo influenza (ETI)",">= a 75",2
+"155","Neuquén",2020,11,"Neumonía (sin especificar)",">= a 75",1
+"156","Neuquén",2020,11,"Bronquiolitis en menores de 2 años (sin especificar)","6 a 11 m",1
